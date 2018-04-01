@@ -1,0 +1,64 @@
+#Stable blocklist collection with all kinds of junk.
+
+#advertisements websites
+1528615735.us-east-1.elb.amazonaws.com
+76g-stake.com
+999713689.eu-west-1.elb.amazonaws.com
+adcolony.com
+adhunter.media
+akamaiedge.net
+appboy.com
+applovin.com
+appnext.com
+appsflyer.com
+babynameready.com
+bing.com
+charmflirt.com
+count.ly
+crashlytics.com
+e8218.dscb1.akamaiedge.net
+elvenar.com
+focuusing.com
+forgeofempires.com
+fucklikegod.com
+fyber.com
+gb0rd.com
+heyzap.com
+inner-active.mobi
+livejasmin.com
+llnwd.net
+mediumamanda.nl
+msn.com
+myofferstracking.com
+nuadverteren.nl
+omniata.com
+pctrk.com
+pussl18.com
+reallifecam.com
+sanoma.nl
+smartphoneslist.com
+sponsorpay.com
+thefirstspins.com
+thiroor.download
+totalrecipesearch.com
+tp-cdn.com
+trialpay.com
+wordcounterext.com
+
+#Malware or phising websites
+bareupgrading.stream
+bhim05.xyz
+cleanmypc.co
+getupdateff.com
+nom005.site
+securetoolext.com
+sspf06.xyz
+systemyouwillneedtoupgrade.stream
+
+#redirection websites
+615b68cc9c8528e.com
+c87a33c9c4f848d16df8.date
+
+#Phone home websites
+appcloud.mcafee.com
+v10.vortex-win.data.microsoft.com
