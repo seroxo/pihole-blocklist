@@ -4,6 +4,7 @@
 1528615735.us-east-1.elb.amazonaws.com
 76g-stake.com
 999713689.eu-west-1.elb.amazonaws.com
+abbp1.com
 adcolony.com
 adhunter.media
 akamaiedge.net
@@ -13,6 +14,7 @@ appnext.com
 appsflyer.com
 babynameready.com
 bing.com
+brucelead.com
 charmflirt.com
 count.ly
 crashlytics.com
@@ -23,18 +25,22 @@ forgeofempires.com
 fucklikegod.com
 fyber.com
 gb0rd.com
+grenads.com
 heyzap.com
 inner-active.mobi
+istric.com
 livejasmin.com
 livermony.info
 llnwd.net
 mediumamanda.nl
 msn.com
 myofferstracking.com
+mybestmv.com
 nuadverteren.nl
 omniata.com
 pctrk.com
 pussl18.com
+peakonspot.com
 reallifecam.com
 rijpeflirtmatches.nl
 sanoma.nl
@@ -45,19 +51,22 @@ thiroor.download
 totalrecipesearch.com
 tp-cdn.com
 trafficstars.com
+traffic-c.com
 trialpay.com
 wordcounterext.com
 
 #Malware or phising websites
 bareupgrading.stream
 bhim05.xyz
+check-moneywithpocket96.loan
 cleanmypc.co
 getupdateff.com
 nom005.site
 securetoolext.com
 sspf06.xyz
 systemyouwillneedtoupgrade.stream
-check-moneywithpocket96.loan
+thetopmainplacesetnowcontentsnewlist.review
+
 
 #redirection websites
 615b68cc9c8528e.com
