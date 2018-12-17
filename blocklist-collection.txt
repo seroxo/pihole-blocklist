@@ -2,6 +2,7 @@
 
 #advertisements websites
 1528615735.us-east-1.elb.amazonaws.com
+24global-surf.com
 76g-stake.com
 999713689.eu-west-1.elb.amazonaws.com
 abbp1.com
