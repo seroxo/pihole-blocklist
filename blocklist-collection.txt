@@ -7,6 +7,8 @@
 999713689.eu-west-1.elb.amazonaws.com
 abbp1.com
 adcolony.com
+addthis.com
+addthisegdge.com
 adhunter.media
 akamaiedge.net
 appboy.com
