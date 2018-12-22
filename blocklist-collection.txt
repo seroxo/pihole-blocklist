@@ -89,6 +89,9 @@ thetopmainplacesetnowcontentsnewlist.review
 #redirection websites
 615b68cc9c8528e.com
 c87a33c9c4f848d16df8.date
+bodelen.com
+pushance.com
+
 
 #Phone home websites
 appcloud.mcafee.com
