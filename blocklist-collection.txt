@@ -100,4 +100,5 @@ pushno.com
 
 #Phone home websites
 appcloud.mcafee.com
+tapresearch.com
 v10.vortex-win.data.microsoft.com
